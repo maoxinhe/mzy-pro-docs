@@ -1,6 +1,8 @@
 main:
   - title: 设置
     url: /settings.html
+  - title: 反馈
+    url: /multiplayer/feedback.html
 
 docs:
   - title: 问题集合
