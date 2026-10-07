@@ -166,7 +166,7 @@ logo: /assets/img/cmy.png
 breadcrumbs: false
 # words_per_minute: 200
 enable_copy_code_button: true
-copyright: huanghongxun
+copyright: 苏州梦之韵科技
 copyright_url: mailto:cmy@mengzhiyun.net
 date_format: "%Y-%m-%d"
 
@@ -268,8 +268,12 @@ footer:
     - label: Github
       icon: fab fa-fw fa-github
       url: https://github.com/maoxinhe/mzy-pro-source
-    - label: 粤ICP备18071565号
-      url: https://beian.miit.gov.cn
+    - label: 官网
+      icon: fas fa-fw fa-globe
+      url: https://www.camzy.tech
+    - label: 帮助文档
+      icon: fas fa-fw fa-book
+      url: https://docs.camzy.tech
   # since:
 
 # minimal-mistakes (with jekyll-paginate-v2) https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
