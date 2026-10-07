@@ -37,4 +37,4 @@ toc: false
   }
 </style>
 
-<script src="/assets/js/cmy-signature-verify.min.js"></script>
+<script src="/assets/js/cmy-signature-verify.js"></script>
