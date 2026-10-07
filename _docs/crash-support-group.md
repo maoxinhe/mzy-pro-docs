@@ -2,7 +2,7 @@
 title: 加入 CMY 报错崩溃交流群
 excerpt: CMY 报错崩溃交流群仅处理游戏报错与崩溃问题
 date: 2024-03-05 17:00:00 +0800
-author: zkitefly
+author: mengzhiyun
 ---
 
 <!----{{'>'}}

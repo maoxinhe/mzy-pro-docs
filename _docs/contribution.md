@@ -1,7 +1,7 @@
 ---
 title: 贡献指南
 date: 2021-10-09 23:18:02 +0800
-author: huanghongxun
+author: mengzhiyun
 classes: wide
 toc: false
 ---

@@ -2,7 +2,7 @@
 title: 数据包制作指南
 excerpt: 制作可以由 CMY 导入的数据包
 date: 2021-08-22 23:18:02 +0800
-author: huanghongxun
+author: mengzhiyun
 ---
 
 本指南只介绍如何制作一个 CMY 可导入的数据包压缩包。

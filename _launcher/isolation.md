@@ -3,7 +3,7 @@ title: 全局版本隔离
 excerpt: 避免多个游戏版本的存档、模组和配置冲突
 date: 2021-10-09T23:18:02+08:00
 last_modified_at: 2025-12-03T14:31:42+08:00
-author: LIPiston
+author: mengzhiyun
 redirect_from:
   - /launcher/global-version-isolation.html
 ---

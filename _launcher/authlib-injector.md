@@ -2,7 +2,7 @@
 title: Authlib-Injector 服务器设置指南
 excerpt: 配置默认的验证服务器
 date: 2021-08-22 23:18:02 +0800
-author: huanghongxun
+author: mengzhiyun
 ---
 
 ## 背景

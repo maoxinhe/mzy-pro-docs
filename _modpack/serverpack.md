@@ -3,7 +3,7 @@ title: 服务端自动更新整合包制作教程
 excerpt: 创建可自动更新的服务器整合包
 date: 2021-08-22T23:18:02+08:00
 last_modified_at: 2025-12-06T09:37:00+08:00
-author: huanghongxun
+author: mengzhiyun
 ---
 
 CMY 允许服务器管理员借助服务端自动更新整合包来实现自动分发整合包更新，这将大大方便有需要频繁更新游戏客户端 Mod、配置等信息的服务器管理员。

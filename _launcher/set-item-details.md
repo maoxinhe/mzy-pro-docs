@@ -2,7 +2,7 @@
 title: 设置项详解
 excerpt: CMY 各项设置的详细说明，包括全局游戏设置、外观、下载等
 date: 2023-6-09 10:26:00 +0800
-author: MemoryShadow
+author: mengzhiyun
 ---
 
 ## 引言

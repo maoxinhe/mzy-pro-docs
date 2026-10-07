@@ -2,7 +2,7 @@
 title: 配置客户端自动更新 (Nginx)
 excerpt: 本文介绍了如何使用 Nginx 服务器配置客户端自动更新
 date: 2023-01-11 14:13:45 +0800
-author: buggzd
+author: mengzhiyun
 ---
 
 > 阅读本文前，请先阅读[此文章](/_modpack/serverpack.md)

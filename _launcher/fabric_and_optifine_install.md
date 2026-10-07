@@ -2,7 +2,7 @@
 title: 同时安装 Fabric & OptiFine
 excerpt: 本文介绍了如何在 CMY 中同时安装 OptiFine 和 Fabric
 date: 2023-01-04 11:30:00 +0800
-author: zkitefly
+author: mengzhiyun
 ---
 
 在 CMY 的自动安装中，如果先选择了 Fabric 或 OptiFine ，CMY 就会提示他们互不兼容。

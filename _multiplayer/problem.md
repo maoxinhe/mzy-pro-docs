@@ -2,8 +2,7 @@
 title: 多人联机在macOS 15+的已知问题
 date: 2025-10-07T18:44:00+08:00
 last_modified_at: 2026-06-18T12:07:00+08:00
-authors:
-  - SinetianLiu
+author: mengzhiyun
 ---
 ## 来源
 
